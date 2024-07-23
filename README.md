@@ -59,13 +59,19 @@ During this step, in order to test the connectivity between VM Client-1 and VM D
 </p>
 <br />
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  
+![Screen Shot 2024-07-23 at 6 34 40 PM](https://github.com/user-attachments/assets/39566b12-628b-443a-8d3c-10615a088acb)
+![Screen Shot 2024-07-23 at 6 32 40 PM](https://github.com/user-attachments/assets/c44e1a61-9a07-4520-b6c3-739921e41a5c)
+![Screen Shot 2024-07-23 at 6 34 06 PM](https://github.com/user-attachments/assets/8954d1c8-a252-4217-baac-19420fcd383d)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we installed Active Directory into DC-1.
 </p>
 <br />
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
