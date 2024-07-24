@@ -98,17 +98,25 @@ In this step, we joined Client-1 to the domain (mydomain.com).  Basically, this 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-23 at 8 10 56 PM](https://github.com/user-attachments/assets/22516c37-0a4f-49de-83cb-c76017ff13a9)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we setup Remote Desktop for non-administrative users on Client-1.  This means that we can now log into Client-1 as a normal, non-administrative user.
 </p>
 <br />
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screen Shot 2024-07-23 at 8 17 46 PM](https://github.com/user-attachments/assets/1d063199-24ce-4dc2-aaaf-9bc4ba41b3e9)
+![Screen Shot 2024-07-23 at 8 18 49 PM](https://github.com/user-attachments/assets/e7e36c79-d9f9-4290-bb3f-d1b76ce14062)
+![Screen Shot 2024-07-23 at 8 18 59 PM](https://github.com/user-attachments/assets/c8229611-79ab-4b3d-a4b2-e7dad901dcc4)
+![Screen Shot 2024-07-23 at 8 19 43 PM](https://github.com/user-attachments/assets/5e42b9df-8c11-4d02-8110-e171a9f20a7b)
+![Screen Shot 2024-07-23 at 8 21 00 PM](https://github.com/user-attachments/assets/cae586fd-fb49-40cf-aa84-2c0e1b94cf64)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we created a bunch of additional users inside of DC-1 and attempted to log into client-1 with one of the users.  Because of the previous 2 steps, we did not have to manually create each user, but we can login as any one of the created random users and client-1 will recognize the user's username and password as legit.
 </p>
 <br />
