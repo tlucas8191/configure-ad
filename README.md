@@ -74,20 +74,28 @@ In this step, we installed Active Directory into DC-1.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screen Shot 2024-07-23 at 6 50 23 PM](https://github.com/user-attachments/assets/15990d3a-66e2-4ba1-a937-f0b5be2add08)
+![Screen Shot 2024-07-23 at 6 51 07 PM](https://github.com/user-attachments/assets/5eefd7ca-a48b-4c31-8b41-69e84ac7235c)
+![Screen Shot 2024-07-23 at 6 51 51 PM](https://github.com/user-attachments/assets/b57674fe-8396-4d12-9bce-284174eb08d1)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we created an admin/normal user account in Active Directory.  This account is an adminstative employee account for an employee named Jane Doe, and her username is jane_admin.  Jane_admin is the only username/admin account used for DC-1 from this point moving forward.
 </p>
 <br />
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-23 at 8 03 31 PM](https://github.com/user-attachments/assets/5ba6217e-2871-4eaf-9695-a669d5679267)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we joined Client-1 to the domain (mydomain.com).  Basically, this means that Client-1 shows up in Active Directory Users and Computers inside of DC-1.
 </p>
 <br />
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
